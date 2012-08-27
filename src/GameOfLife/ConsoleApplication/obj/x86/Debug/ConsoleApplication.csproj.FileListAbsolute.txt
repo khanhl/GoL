@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GameOfLife\ConsoleApplication\bin\Debug\GameCoreLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GameOfLife\ConsoleApplication\bin\Debug\GameCoreLib.pdb
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\ConsoleApplication\bin\Debug\GameCoreLib.dll
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\ConsoleApplication\bin\Debug\GameCoreLib.pdb
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache

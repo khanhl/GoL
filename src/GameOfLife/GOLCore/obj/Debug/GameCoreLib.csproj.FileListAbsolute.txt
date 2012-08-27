@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\bin\Debug\GameCoreLib.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\bin\Debug\GameCoreLib.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\obj\Debug\GameCoreLib.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\obj\Debug\GameCoreLib.pdb
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\GOLCore\bin\Debug\GameCoreLib.dll
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\GOLCore\bin\Debug\GameCoreLib.pdb
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\GOLCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\GOLCore\obj\Debug\GameCoreLib.dll
+C:\Users\Administrator\Documents\GitHub\GoL\src\GameOfLife\GOLCore\obj\Debug\GameCoreLib.pdb

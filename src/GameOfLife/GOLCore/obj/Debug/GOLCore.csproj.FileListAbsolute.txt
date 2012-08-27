@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\bin\Debug\GOLCore.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\bin\Debug\GOLCore.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\obj\Debug\GOLCore.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\obj\Debug\GOLCore.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\bin\Debug\GOLCore.dll.CodeAnalysisLog.xml
+c:\users\administrator\documents\visual studio 2010\Projects\GameOfLife\GOLCore\bin\Debug\GOLCore.dll.lastcodeanalysissucceeded
